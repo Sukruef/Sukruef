@@ -1,6 +1,6 @@
 -start
-"1.sayıyı giriniz"a
-"2.sayıyı giriniz"b
-"3.sayıyı giriniz"c
+"1.sayiyigiriniz"a
+"2.sayiyigiriniz"b
+"3.sayiyigiriniz"c
 d=a+b+c
-"3 sayının toplamı"d
+"3 sayinin toplamı"d
